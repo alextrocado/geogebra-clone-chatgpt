@@ -22,19 +22,3 @@ export default function App() {
     </div>
   );
 }
-/*
-📦 Instruções para testar localmente:
-
-1. Garante que tens o Node.js instalado: https://nodejs.org
-2. Cria uma pasta e extrai os ficheiros .zip do projeto nela
-3. Abre essa pasta no terminal e executa:
-
-   npm install
-   npm run dev
-
-4. O navegador abrirá automaticamente em http://localhost:5173
-5. Será pedida a tua OpenAI API Key — insere-a uma vez e ficará guardada localmente
-6. Começa a escrever na janela do ChatGPT pedidos como:
-   ➤ "Desenha um triângulo com vértices A(0,0), B(4,0), C(2,3)"
-   ➤ "Traça a mediana a partir do vértice C"
-*/
